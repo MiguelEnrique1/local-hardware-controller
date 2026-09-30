@@ -20,6 +20,7 @@ A modular, low-level C++ framework designed to isolate, configure, and test hard
 ````
 How to Build and Run
 Prerequisites
+
 C++17 Compatible Compiler (g++, clang++, or MSVC)
 
 CMake 3.10+ (Optional)
@@ -51,6 +52,7 @@ Sample Execution Output
 --------------------------------------------
 ```
 Future Roadmap
+
 [ ] Add Linux /sys/class file system interaction for real Linux system metrics profiling.
 
 [ ] Integrate low-level bitwise register masks for direct memory-mapped IO simulation.
